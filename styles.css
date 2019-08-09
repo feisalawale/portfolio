@@ -1,0 +1,148 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+
+}
+h1 {
+  font-size: 4.375rem;
+  margin: 50px auto 0 auto;
+  font-family: 'sacramento', cursive;
+  color:#66BFBF;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color:#66BFBF;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr{
+  border: dotted;
+  border-bottom: none;
+  margin: 100px auto;
+  width: 4%;
+}
+
+p {
+  line-height: 2;
+}
+
+.myButton {
+	-moz-box-shadow: 0px 0px 0px 2px #3dc21b;
+	-webkit-box-shadow: 0px 0px 0px 2px #3dc21b;
+	box-shadow: 0px 0px 0px 2px #3dc21b;
+	background-color:#078b8b;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+  border:1px solid #18ab29;
+  margin: 50px 0 50px 0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background-color:#31E3CB;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.contact-me {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.copyright {
+  color: #FFFFFF;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #FFFFFF;
+}
+
+
+
+.Top {
+  background-color: #E4F9F5;
+  position: relative;
+  padding: 100px 0 0 0;
+}
+
+.middle-container {
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin: 50px auto 50px auto;
+  padding: 50px 0 20px;
+}
+
+.full {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+  color: #11999E;
+}
+
+.profile {
+  padding: 50px 0;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+}
+
+.self-description {
+  width: 30%;
+  margin: auto;
+  color: #40514E;
+}
+
+.coding-skills-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.digital-marketing-skills-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top: 40px;
+}
